@@ -1,4 +1,4 @@
-Weather Web App 🌥️🔥🌈☃️:
+### Weather Web App 🌥️🔥🌈☃️:
 
 ➡️This is a weather web app created using HTML, CSS, and JavaScript. It utilizes the OpenWeatherMap API to provide up-to-date weather information for any city in the world.
 
